@@ -1,11 +1,11 @@
 # Python Basics | [ᐅ<sub>code</sub>][Code]
 
-This are script to demonstrate the basics of Python programming
+These are scripts to demonstrate the basics of Python programming
 
-## Notebooks
+## Scripts
 
-The notebooks contain code to demonstrate the concepts and how they are
-applied in code and data.
+The `scripts` folder contains all the scripts, organized by into the following
+sections.
 
 ### Basic Syntax
 
