@@ -1,4 +1,4 @@
-# Sample Code for Python IO
+# Sample Code for command line IO
 
 
 x = input('Enter an integer: ')
