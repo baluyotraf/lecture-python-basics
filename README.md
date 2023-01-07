@@ -1,4 +1,7 @@
-# Python Basics | [ᐅ<sub>code</sub>][Code]
+# Python Basics
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/firefox.svg" height="30">][Software + ML]
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/github.svg" height="30">][Code]
 
 These are scripts to demonstrate the basics of Python programming
 
@@ -41,3 +44,4 @@ of files as input and output.
 
 
 [Code]: https://github.com/baluyotraf/lecture-python-basics (Code)
+[Software + ML]: https://education.softwareplus.ml/projects/python-basics/ (Website)
