@@ -1,7 +1,7 @@
 # Python Basics
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/firefox.svg" height="30">][Software + ML]
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/github.svg" height="30">][Code]
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/firefox.svg" style="height:30px;">][Software + ML]
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/github.svg" style="height:30px;">][Code]
 
 These are scripts to demonstrate the basics of Python programming
 
