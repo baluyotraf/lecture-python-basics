@@ -44,4 +44,4 @@ of files as input and output.
 
 
 [Code]: https://github.com/baluyotraf/lecture-python-basics (Code)
-[Software + ML]: https://education.softwareplus.ml/projects/python-basics/ (Website)
+[Software + ML]: https://education.softwareplusml.baluyotraf.com/projects/python-basics/ (Website)
